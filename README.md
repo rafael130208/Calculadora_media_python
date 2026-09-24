@@ -28,4 +28,4 @@ else:
 ```
 
 # Autor e Contato
-[![LinkedIn](https://shields.io)]https://www.linkedin.com/in/rafaelvieiradasilva/
+[![LinkedIn]]https://www.linkedin.com/in/rafaelvieiradasilva/
