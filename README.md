@@ -28,4 +28,5 @@ else:
 ```
 
 # Autor e Contato
-[![LinkedIn]]https://www.linkedin.com/in/rafaelvieiradasilva/
+[![LinkedIn](https://img.shields.io/badge/-Seu_Nome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/rafaelvieiradasilva/
+)
